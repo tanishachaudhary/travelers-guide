@@ -42,4 +42,5 @@ option{
 
 #abt{
 	background: url("aboutback.png") no-repeat center center;
+	background-size: cover;
 }
